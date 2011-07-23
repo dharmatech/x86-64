@@ -1,0 +1,16 @@
+
+# Print a literal integer
+
+# C
+
+```c
+#include file="print-literal-integer.c"
+```
+
+# Assembly
+
+```s
+#include file="print-literal-integer.s"
+```
+
+
