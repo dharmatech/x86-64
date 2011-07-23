@@ -1,0 +1,19 @@
+
+# Add two doubles
+
+# C
+
+```c
+#include file="add-two-doubles.c"
+```
+
+# Assembly
+
+```s
+#include file="add-two-doubles.s"
+```
+
+# Assemble and run
+
+    $ gcc add-two-doubles.s && ./a.out 1.2 3.4
+    4.600000
