@@ -1,5 +1,5 @@
 
-[Print a literal string](x86-64/print-literal-string.md)
+[Print a literal string](x86-64/blob/master/print-literal-string.md)
 
 [Print a literal integer](print-literal-integer.md)
 
