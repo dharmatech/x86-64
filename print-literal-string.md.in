@@ -1,0 +1,16 @@
+
+# Print a literal string
+
+# C
+
+```c
+#include file="print-literal-string.c"
+```
+
+# Assembly
+
+```s
+#include file="print-literal-string.s"
+```
+
+
