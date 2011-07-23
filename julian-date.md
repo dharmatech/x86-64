@@ -213,8 +213,7 @@ int main ( int argc , char * argv[] )
 
         leave
         ret
-
-        ```
+```
 
 # Assemble and run
 

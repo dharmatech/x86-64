@@ -1,7 +1,7 @@
 
 [Print a literal string](x86-64/blob/master/print-literal-string.md)
 
-[Print a literal integer](x86-64/blob/master/print-literal-integer.md)
+[Print a literal integer](x86-64/blob/master/print-literal-int.md)
 
 [Print a literal floating point number](x86-64/blob/master/print-literal-double.md)
 
