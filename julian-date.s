@@ -1,4 +1,6 @@
 
+        .include "utils.s"
+        
         global_text main
 
         prepare_stack

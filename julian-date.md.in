@@ -1,0 +1,19 @@
+
+# Calculate the Julian Day
+
+# C
+
+```c
+#include file="julian-date.c"
+```
+
+# Assembly
+
+```s
+#include file="julian-date.s"
+```
+
+# Assemble and run
+
+    $ gcc julian-date.s -lm && ./a.out 2011 7 23
+    2455765.500000
