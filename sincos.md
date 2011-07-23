@@ -63,9 +63,7 @@ int main ( int argc , char * argv[] )
         print_nl
 
         return_integer $0
-        
-
-        ```
+```
 
 # Assemble and run
 

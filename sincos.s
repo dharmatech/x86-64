@@ -31,6 +31,3 @@
         print_nl
 
         return_integer $0
-        
-
-        
