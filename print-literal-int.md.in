@@ -4,13 +4,13 @@
 # C
 
 ```c
-#include file="print-literal-integer.c"
+#include file="print-literal-int.c"
 ```
 
 # Assembly
 
 ```s
-#include file="print-literal-integer.s"
+#include file="print-literal-int.s"
 ```
 
 
