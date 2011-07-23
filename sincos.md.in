@@ -1,0 +1,19 @@
+
+# Call the sincos glibc C function
+
+# C
+
+```c
+#include file="sincos.c"
+```
+
+# Assembly
+
+```s
+#include file="sincos.s"
+```
+
+# Assemble and run
+
+    $ gcc sincos.s -lm && ./a.out 0.0
+    0.000000 1.000000
