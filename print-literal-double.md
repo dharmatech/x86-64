@@ -1,5 +1,5 @@
 
-# Print a literal string
+# Print a literal double
 
 # C
 
@@ -9,7 +9,7 @@
 
 int main ()
 {
-    printf("%s", "abc") ;
+    printf ( "%f\n" , 1.2 ) ;
     
     return 0 ;
 }
@@ -20,22 +20,22 @@ int main ()
 ```s
 
         .include "utils.s"
-
+        
         global_text main
 
         prepare_stack
 
-        literal_string "abc" , %rax
+        literal_double 0e1.2 %xmm0
 
-        print_string %rax
+        print_double %xmm0
 
         print_nl
 
         return_integer $0
 ```
 
-
 # Assemble and run
 
-    $ gcc print-literal-string.s -lm && ./a.out
-    abc
+    $ gcc print-literal-double.s -lm && ./a.out
+    1.2
+

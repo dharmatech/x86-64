@@ -13,4 +13,9 @@
 #include file="print-literal-int.s"
 ```
 
+# Assemble and run
+
+    $ gcc print-literal-int.s -lm && ./a.out
+    123
+
 

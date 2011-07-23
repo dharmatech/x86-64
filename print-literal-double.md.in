@@ -1,0 +1,20 @@
+
+# Print a literal double
+
+# C
+
+```c
+#include file="print-literal-double.c"
+```
+
+# Assembly
+
+```s
+#include file="print-literal-double.s"
+```
+
+# Assemble and run
+
+    $ gcc print-literal-double.s -lm && ./a.out
+    1.2
+

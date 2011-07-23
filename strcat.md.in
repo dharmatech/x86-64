@@ -1,0 +1,19 @@
+
+# Call the strcat glibc C function
+
+# C
+
+```c
+#include file="strcat.c"
+```
+
+# Assembly
+
+```s
+#include file="strcat.s"
+```
+
+# Assemble and run
+
+    $ gcc strcat.s -lm && ./a.out abc def
+    abcdef

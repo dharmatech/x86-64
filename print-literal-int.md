@@ -34,4 +34,9 @@ int main ()
         return_integer $0
 ```
 
+# Assemble and run
+
+    $ gcc print-literal-int.s -lm && ./a.out
+    123
+
 

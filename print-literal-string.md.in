@@ -14,3 +14,7 @@
 ```
 
 
+# Assemble and run
+
+    $ gcc print-literal-string.s -lm && ./a.out
+    abc
