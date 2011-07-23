@@ -1,16 +1,16 @@
 
 [Print a literal string](x86-64/blob/master/print-literal-string.md)
 
-[Print a literal integer](print-literal-integer.md)
+[Print a literal integer](x86-64/blob/master/print-literal-integer.md)
 
-[Print a literal floating point number](print-literal-double.md)
+[Print a literal floating point number](x86-64/blob/master/print-literal-double.md)
 
-[Add two doubles](add-two-doubles.md)
+[Add two doubles](x86-64/blob/master/add-two-doubles.md)
 
-[Call the strcat C Function](strcat.md)
+[Call the strcat C Function](x86-64/blob/master/strcat.md)
 
-[Call the sincos C Function](sincos.md)
+[Call the sincos C Function](x86-64/blob/master/sincos.md)
 
-[Calculate the Julian Day](julian-date.md)
+[Calculate the Julian Day](x86-64/blob/master/julian-date.md)
 
-[Utility Macros](utils.md)
+[Utility Macros](x86-64/blob/master/utils.md)
