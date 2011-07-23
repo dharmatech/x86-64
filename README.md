@@ -13,4 +13,4 @@
 
 [Calculate the Julian Day](x86-64/blob/master/julian-date.md)
 
-[Utility Macros](x86-64/blob/master/utils.md)
+[Utility Macros](x86-64/blob/master/utils.s)
