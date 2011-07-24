@@ -11,6 +11,8 @@
 
 [Call the sincos C Function](x86-64/blob/master/sincos.md)
 
+[Compare two integers](x86-64/blob/master/compare-ints.md)
+
 [Calculate the Julian Day](x86-64/blob/master/julian-date.md)
 
 [Utility Macros](x86-64/blob/master/utils.s)
