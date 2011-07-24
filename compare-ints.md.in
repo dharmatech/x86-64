@@ -1,0 +1,23 @@
+
+# Compare two ints
+
+# C
+
+```c
+#include file="compare-ints.c"
+```
+
+# Assembly
+
+```s
+#include file="compare-ints.s"
+```
+
+# Assemble and run
+
+    $ gcc compare-ints.s && ./a.out 1 2
+    less than
+    $ gcc compare-ints.s && ./a.out 2 1
+    greater than
+    $ gcc compare-ints.s && ./a.out 1 1
+    equal
